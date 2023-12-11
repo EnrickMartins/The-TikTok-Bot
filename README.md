@@ -105,5 +105,3 @@ I can forsee a new social media application being creted in the next couple year
 
 [![License](https://img.shields.io/badge/license-MIT-greene)](http://badges.mit-license.org)
 - **[MIT license](LICENSE.txt)**
-
-
